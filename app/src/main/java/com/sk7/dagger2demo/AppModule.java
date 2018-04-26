@@ -32,7 +32,6 @@ public class AppModule {
         list.add("http://img4.cache.netease.com/photo/0001/2016-08-13/900x600_BUBDM7JI00AO0001.jpg");
         list.add("http://img3.cache.netease.com/photo/0001/2016-08-13/900x600_BUBDM85900AO0001.jpg");
         list.add("http://img3.cache.netease.com/photo/0001/2016-08-13/900x600_BUBDM8F500AO0001.jpg");
-        list.add("http://i0.sinaimg.cn/dy/slidenews/76_img/2016_32/76522_1882718_992616.jpg");
         return list;
     }
 }
